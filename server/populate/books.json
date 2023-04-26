@@ -1,0 +1,13 @@
+[
+  { "name": "To Kill a Mockingbird", "author": "Harper Lee" },
+  { "name": "1984", "author": "George Orwell" },
+  { "name": "Pride and Prejudice", "author": "Jane Austen" },
+  { "name": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+  { "name": "The Catcher in the Rye", "author": "J.D. Salinger" },
+  {"name": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez"},
+    { "name": "The Hitchhiker's Guide to the Galaxy", "author": "Douglas Adams" },
+  { "name": "The Lord of the Rings", "author": "J.R.R. Tolkien" },
+  { "name": "The Hunger Games", "author": "Suzanne Collins" },
+  { "name": "The Da Vinci Code", "author": "Dan Brown" }
+]
